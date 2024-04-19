@@ -1,0 +1,40 @@
+html{
+    background-color: rgb(111, 228, 228);
+}
+.neder{
+   
+     font-size: 85px;
+     margin-top: -10px;
+     margin-left: -10px;
+    
+     padding-left: 10px;
+     position: relative;
+    font-family: 'Courier New';
+   color: rgb(0, 0, 0);
+}
+.fon_zadni{
+margin-left: -1%;
+margin-top: -6%;
+position: absolute;
+}
+.full{
+    overflow: hide;
+}
+.search{
+    position: relative;
+    margin-top: 300px;
+    
+    margin-left: 800px;
+    padding-left:px;
+    
+}
+.list_idea{
+   
+    
+    margin-left: 800px;
+    margin-right: 500px;
+   
+}
+.list_idea li.hide{
+    display: none;
+}
